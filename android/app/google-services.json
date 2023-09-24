@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "305104906646",
+    "project_id": "orbit-54091",
+    "storage_bucket": "orbit-54091.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:305104906646:android:b7edd202b583f6040055b7",
+        "android_client_info": {
+          "package_name": "com.example.socialmediaapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMcUJFkuLDXg1LuXNd42y2he0QHI07VKY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
